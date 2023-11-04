@@ -32,11 +32,17 @@ img {
 }
 
 main {
-
+	width: 900px;
+    float: left;
+    position: relative;
+    left: 10px;
 }
 
 nav {
-
+width: 200px;
+    float: left;
+    position: relative;
+    left: 10px;
 }
 
 #copyright {
@@ -44,5 +50,5 @@ nav {
 }
 
 #main-container {
-
+	
 }
