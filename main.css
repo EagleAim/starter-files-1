@@ -16,7 +16,10 @@ h1, h2, h3 {
 }
 
 aside {
-	
+	width: 300px;
+    float: left;
+    position: relative;
+    left: 20px;
 }
 
 footer {
@@ -32,10 +35,10 @@ img {
 }
 
 main {
-	width: 900px;
+	width: 550px;
     float: left;
     position: relative;
-    left: 10px;
+	left: 1px
 }
 
 nav {
